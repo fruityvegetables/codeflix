@@ -46,6 +46,9 @@
   transition: all 0.2s;
 }
 
+/*THIS is the styling for the empty div at the bottom.
+It could also just be background: linear-gradient(stuff), url();
+IF the images are not dynamic.*/
 .banner-fadeBottom {
   height: 7.4rem;
   background-image: linear-gradient(
